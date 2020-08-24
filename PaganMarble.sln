@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaganMarble", "PaganMarble\PaganMarble.csproj", "{255FC2EB-78DD-4574-8F51-3E18F8075848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Debug|x64.ActiveCfg = Release|x64
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Debug|x64.Build.0 = Release|x64
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Release|x64.ActiveCfg = Release|x64
+		{255FC2EB-78DD-4574-8F51-3E18F8075848}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B179A4-7BA6-4F74-8D83-1EF401FD3DAF}
+	EndGlobalSection
+EndGlobal
